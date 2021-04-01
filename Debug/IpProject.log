@@ -1,0 +1,5 @@
+﻿  IpProject.cpp
+C:\Users\todep\source\repos\IpProject\IpProject.cpp(126,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\todep\source\repos\IpProject\IpProject.cpp(122,6): warning C4101: 'len': unreferenced local variable
+C:\Users\todep\source\repos\IpProject\IpProject.cpp(91): warning C4715: 'remainng_time': not all control paths return a value
+  IpProject.vcxproj -> C:\Users\todep\source\repos\IpProject\Debug\IpProject.exe

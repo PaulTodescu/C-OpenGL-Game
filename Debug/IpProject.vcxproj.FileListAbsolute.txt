@@ -1,0 +1,2 @@
+C:\Users\todep\source\repos\IpProject\Debug\IpProject.exe
+C:\Users\todep\source\repos\IpProject\Debug\IpProject.pdb
